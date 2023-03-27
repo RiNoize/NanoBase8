@@ -9,7 +9,7 @@
 
   ** Hecho por RiNoize **
  
-   NanoBase8 Kross2 Prog&combi       Version 1.0
+   NanoBase8 Kross2 Prog&combi       Version 1.0     Licencia MIT
  ****************************************************************************************************************************
 
 La biblioteca PS2KeyAdvanced se utiliza para leer la entrada del teclado PS2, 
