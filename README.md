@@ -1,5 +1,6 @@
 # NanoBase8 Kross2 Prog&combi V1
-Controlador MIDI basado en un teclado QWERTY PS2 sp, 8 potenciometros y un Arduino nano.
+Controlador MIDI basado en un teclado QWERTY version en español con interfaz Ps2, 
+8 potenciometros y un Arduino nano.
 Para controlar via MIDI IN los cientos de parametros y funciones internas 
 del Workstation Korg Kross2.
 
