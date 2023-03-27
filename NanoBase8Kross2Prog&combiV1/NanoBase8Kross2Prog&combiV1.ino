@@ -1,5 +1,5 @@
 /***************************************************************************************************************************
-  NanoBase8 Kross2 Prog&combi es un sketch Arduino de un Controlador MIDI, con un teclado 
+  NanoBase8 Kross2 Prog&combi es un sketch Arduino de un Controlador MIDI hecho con un teclado 
   QWERTY PS2 spanish y 8 potenciometros conectados a un Arduino Nano.
   La inspiracion de crear este controlador MIDI fué la necesidad de controlar 
   via CCs y via SysEx los cientos de parametros y funciones que tiene 
