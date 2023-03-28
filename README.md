@@ -13,3 +13,5 @@ Tambien con modificaciones se puede usar para cualquier aparato que tenga MIDI I
 Hecho por RiNoize...
 
 Disfrútalo.
+
+https://github.com/RiNoize/NanoBase8/edit/main/NanoBase8.jpg
