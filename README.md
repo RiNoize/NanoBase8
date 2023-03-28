@@ -14,4 +14,4 @@ Hecho por RiNoize...
 
 Disfrútalo.
 
-https://github.com/RiNoize/NanoBase8/edit/main/NanoBase8.jpg
+
