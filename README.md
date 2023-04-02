@@ -14,3 +14,4 @@ Hecho por RiNoize...
 
 Disfrútalo.
 
+<img src="https://github.com/RiNoize/NanoBase8/blob/main/NanoBase8%20%26%20Kross2.jpg">
